@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+  <employee>
+    <name>ahmed mohamed ahmed soultan</name>
+    <Phone>0111111111</Phone>
+    <Address>15 el bayhaky st, el kabary</Address>
+    <email>ahmesoultan@gmail.com</email>
+  </employee>
+  <employee>
+    <name>osama khamis eid khalifa</name>
+    <Phone>0100000000</Phone>
+    <Address>5 el elgza'er st , el laban</Address>
+    <email>osamaeid@gmail.com</email>
+  </employee>
+  <employee>
+    <name>hossam hassan mohamed amin</name>
+    <Phone>0155555555</Phone>
+    <Address>10 el ta'min st ,  el agamy</Address>
+    <email>hossamamin@gmail.com</email>
+  </employee>
+  <employee>
+    <name>mohaned mahmoud fouad zohny</name>
+    <Phone>0121212122</Phone>
+    <Address>11 tiba st , sporting</Address>
+    <email>mohanedzohny@gmail.com</email>
+  </employee>
+  <employee>
+    <name>sherif magdy mohamed esmail</name>
+    <Phone>010101010</Phone>
+    <Address>9 osman st , kilopatra</Address>
+    <email>sherifmagdy@gmail.com</email>
+  </employee>
+  <employee>
+    <name>AHMED el adly</name>
+    <phone>0122222</phone>
+    <Address>alex</Address>
+    <email>ahmed@gamail.com</email>
+  </employee>
+</Employees>

@@ -1,0 +1,10 @@
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\bin\Debug\Lab3_XML.exe.config
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\bin\Debug\Lab3_XML.exe
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\bin\Debug\Lab3_XML.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.Form1.resources
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.Properties.Resources.resources
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.csproj.GenerateResource.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.csproj.CoreCompileInputs.cache
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.exe
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.pdb
+D:\AHMED EL ADLY\iTi\Lectures\continuous courses\XML\Labs\Lab 3\Lab3_XML\Lab3_XML\obj\Debug\Lab3_XML.csprojAssemblyReference.cache
